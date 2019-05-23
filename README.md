@@ -1,0 +1,12 @@
+# Remidi_PAS
+![alt text](https://github.com/zalsaaquaristakusumaningtyas/Remidi_PAS/blob/master/Login%20Karyawan.PNG)
+![alt text](https://github.com/zalsaaquaristakusumaningtyas/Remidi_PAS/blob/master/template_karyawan.php)
+![alt text](https://github.com/zalsaaquaristakusumaningtyas/Remidi_PAS/blob/master/Data%20Pelanggan.PNG)
+![alt text](https://github.com/zalsaaquaristakusumaningtyas/Remidi_PAS/blob/master/Data%20Mobil.PNG)
+![alt text](https://github.com/zalsaaquaristakusumaningtyas/Remidi_PAS/blob/master/Data%20Laporan.PNG)
+![alt text](https://github.com/zalsaaquaristakusumaningtyas/Remidi_PAS/blob/master/Logout%20Karyawan.PNG)
+![alt text](https://github.com/zalsaaquaristakusumaningtyas/Remidi_PAS/blob/master/Login%20Pelanggan.PNG)
+![alt text](https://github.com/zalsaaquaristakusumaningtyas/Remidi_PAS/blob/master/Daftar%20Mobil%20Pelanggan.PNG)
+![alt text](https://github.com/zalsaaquaristakusumaningtyas/Remidi_PAS/blob/master/List%20Sewa%20(checkout).PNG)
+![alt text](https://github.com/zalsaaquaristakusumaningtyas/Remidi_PAS/blob/master/Transaksi.PNG)
+![alt text](https://github.com/zalsaaquaristakusumaningtyas/Remidi_PAS/blob/master/Logout%20Pelanggan.PNG)
